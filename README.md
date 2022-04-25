@@ -3,8 +3,9 @@
 
 ![links](https://github.com/Aggggsu/SPAMMER-TERMUX-/blob/main/20220425_174158.png)
 
-I
+-------------------------------
 # INSTALL termux
+-------------------------------
 Скачать с github:
 `https://github.com/Aggggsu/SPAMMER-TERMUX-`
 `pkg install python, pkg install python2`
